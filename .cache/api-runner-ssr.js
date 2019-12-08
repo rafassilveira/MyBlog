@@ -1,23 +1,23 @@
 var plugins = [{
-      plugin: require('D:/Git/Cursos/StudyFlow/Gatsby/my-blog/node_modules/gatsby-plugin-transition-link/gatsby-ssr'),
+      plugin: require('D:/Git/my-blog/node_modules/gatsby-plugin-transition-link/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('D:/Git/Cursos/StudyFlow/Gatsby/my-blog/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('D:/Git/my-blog/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('D:/Git/Cursos/StudyFlow/Gatsby/my-blog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('D:/Git/my-blog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('D:/Git/Cursos/StudyFlow/Gatsby/my-blog/node_modules/gatsby-remark-images/gatsby-ssr'),
+      plugin: require('D:/Git/my-blog/node_modules/gatsby-remark-images/gatsby-ssr'),
       options: {"plugins":[],"maxWidth":960,"linkImagesToOriginal":false},
     },{
-      plugin: require('D:/Git/Cursos/StudyFlow/Gatsby/my-blog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('D:/Git/my-blog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Rafael Silveira","short_name":"Rafael Silveira","start_url":"/","background_color":"#16202c","theme_color":"#16202c","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
     },{
-      plugin: require('D:/Git/Cursos/StudyFlow/Gatsby/my-blog/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('D:/Git/my-blog/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('D:/Git/Cursos/StudyFlow/Gatsby/my-blog/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('D:/Git/my-blog/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
