@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/rafassilveira/MyBlog
+  repo: rafassilveira/MyBlog
   branch: master
   site_domain: https://rafaelssilveira.netlify.com/
 
